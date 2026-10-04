@@ -1,0 +1,12 @@
+.venv/
+venv/
+backend/venv/
+backend/_lambda_build/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.py[cod]
+*.zip
+.env
+.env.*
+!.env.example
